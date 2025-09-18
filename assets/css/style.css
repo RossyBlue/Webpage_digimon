@@ -1,0 +1,90 @@
+header {
+    height: auto;
+    background-image: url("../img/Agumon.png");
+    background-size: 500px;
+    background-repeat: no-repeat;
+    background-color: yellow;
+    max-width: 100%;
+}
+
+#miBoton {
+    float: right;
+    display: block;
+    margin-left: auto;
+    margin-top: 80px;
+
+}
+  
+.nav {
+
+    background-color: yellow;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+ }
+
+body {
+
+    background-color: hsl(52, 100%, 50%);
+}
+
+
+h1 { 
+    font-family: 'Brush Script MT', cursive;
+    font-size: 150px;
+    text-shadow: 3px 3px 3px #ababab;
+    text-align: center;
+    color: blue;
+
+}
+
+h2 {
+
+    font-family: 'Brush Script MT', cursive;
+    font-size: 50px;
+
+}
+
+
+.tarjeta {
+
+    backdrop-filter: #aaaaaae4;
+    margin: 2%;
+    display: inline-block;
+    align-items: center;
+
+}
+
+.footer {
+    height: auto;
+    background-image: url("../img/Digimon_Logo.webp");
+    background-size: 400px;
+    background-repeat: no-repeat;
+    background-color: yellow;
+    max-width: 100%;
+    text-align: center;
+}
+
+
+.container-imagen {
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    
+  }
+  
+ul.a {
+    list-style-type: none;
+  }
+  
+
+
+  
+  
+  
+  
+  
+  

@@ -1,0 +1,19 @@
+h1 {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 50px;
+    color: blue;
+    text-align: center;
+}
+
+body {
+
+    background-color: #ffff6b;
+}
+
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+
+ }
